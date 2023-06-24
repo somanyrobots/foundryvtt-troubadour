@@ -41,5 +41,5 @@
   "download": "#{DOWNLOAD}#",
   "url": "#{URL}#",
   "license": "LICENSE",
-  "readme": "README.md",
+  "readme": "README.md"
 }
