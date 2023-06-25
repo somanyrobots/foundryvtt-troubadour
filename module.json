@@ -7,6 +7,7 @@
     "minimum": "0.8.6",
     "verified": "11"
   },
+  "manifestPlusVersion": "1.2.0",
   "author": "somanyrobots",
   "authors": [
     {
@@ -28,7 +29,9 @@
           "system": "dnd5e"
       }
   ],
-  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip",
-  "manifestPlusVersion": "1.2.0"
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "url": "#{URL}#",
+  "license": "LICENSE",
+  "readme": "README.md"
 }
