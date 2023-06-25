@@ -2,9 +2,7 @@
   "id": "troubadour",
   "title": "Troubadour Class",
   "description": "The Troubadour class for 5E, by somanyrobots",
-  "version": "#{VERSION}#",
-  "library": "false",
-  "manifestPlusVersion": "1.2.0",
+  "version": "0.8.0",
   "compatibility": {
     "minimum": "0.8.6",
     "verified": "11"
@@ -23,23 +21,14 @@
   "packs": [
       {
           "name": "troubadour-items",
-          "label": "Module Items",
+          "label": "Troubadour",
           "path": "./packs/items.db",
           "entity": "Item",
           "type": "Item",
           "system": "dnd5e"
-      },
-      {
-          "name": "troubadour-macros",
-          "label": "Troubadour Macros",
-          "path": "./packs/macros.db",
-          "entity": "Macro",
-          "type": "Macro"
       }
   ],
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
-  "url": "#{URL}#",
-  "license": "LICENSE",
-  "readme": "README.md",
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip",
+  "manifestPlusVersion": "1.2.0"
 }
