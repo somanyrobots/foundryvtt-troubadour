@@ -2,7 +2,7 @@
   "id": "troubadour",
   "title": "Troubadour Class",
   "description": "The Troubadour class for 5E, by somanyrobots",
-  "version": "0.8.0",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "0.8.6",
     "verified": "11"
