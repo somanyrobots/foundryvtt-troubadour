@@ -1,8 +1,8 @@
 {
   "id": "troubadour",
-  "title": "Troubadour Class",
+  "title": "somanyrobots's Troubadour",
   "description": "The Troubadour class for 5E, by somanyrobots",
-  "version": "0.8.0",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "0.8.6",
     "verified": "11"
@@ -22,16 +22,11 @@
   "packs": [
       {
           "name": "troubadour-items",
-          "label": "Troubadour",
+          "label": "somanyrobots's Troubadour",
           "path": "./packs/items.db",
           "entity": "Item",
           "type": "Item",
           "system": "dnd5e"
       }
   ],
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
-  "url": "#{URL}#",
-  "license": "LICENSE",
-  "readme": "README.md"
 }
