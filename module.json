@@ -22,7 +22,7 @@
   "packs": [
       {
           "name": "troubadour-items",
-          "label": "somanyrobots's Troubadour",
+          "label": "Troubadour",
           "path": "./packs/items.db",
           "entity": "Item",
           "type": "Item",
